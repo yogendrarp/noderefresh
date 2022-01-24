@@ -1,0 +1,28 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "a to do list net ninja",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogendrarp/noderefresh.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Yogendra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogendrarp/noderefresh/issues"
+  },
+  "homepage": "https://github.com/yogendrarp/noderefresh#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.7"
+  }
+}
